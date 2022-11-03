@@ -1,5 +1,5 @@
-#include "myfuncs.h"
 #include <stdio.h>
+#include "myfuncs.h"
 
 int main(void) {
     // call two functions 3 times.
